@@ -1,5 +1,8 @@
 ## NasaLightsSummary
 
+## Takeaways
+- 
+
 ### Required Installations:
 - openpyxl
 - seaborn
@@ -13,8 +16,9 @@
 
 ### Results:
 - Using IPUMS data from 2019 -2023, I was able to create a Tableau map of states based on avaerage household incomes (Available at https://github.com/SolomonShilly/Tableau-Visualizations/blob/main/States_HHINCOME.twb)
-- This led me to wondering whether coastal cities in the US had more activity than midwestern states due to a large majority of coastal states having higher median incomes than Midwestern states
-- Based on the data, Eastern and Western states had significantly more lights than Midwestern states on average between 2012 - 2020
-- States with median incomes greater than $110,000 exhibited more light than states with a median income less than $110,000
-- Nevada, New York, New Jersey, California, and Maryland had the highest average radiance between 2012 - 2020
-- Nevada was the outlier. Nevada had a median income lower than $110,000, but had the highest average radiance
+- This led me to question if **coastal cities in the US had more activity than midwestern states** due to a large majority of **coastal states having higher median incomes than Midwestern states**
+- Based on the data, Eastern and Western states had **significantly more lights** than Midwestern states on average between 2012 - 2020
+- States with median incomes **greater than $110,000 exhibited more light** than states with a median income less than $110,000
+- **Nevada, New York, New Jersey, California, and Maryland** had the highest average radiance between 2012 - 2020
+- **Nevada was the outlier.** Nevada had a median income lower than $110,000, but had the highest average radiance
+- The next point of interestL Do businesses in these states run businesses past traditional timeframes?
