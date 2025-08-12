@@ -16,7 +16,7 @@
 - https://search.earthdata.nasa.gov/search/granules?p=C2650219940-GES_DISC&q=lights%20at%20night&fst0=Atmosphere&lat=35&long=-92.71553112271542&zoom=2.9438568133858167
 - To learn more about VIIRS/S-NPP, read https://snow.nasa.gov/missions/s-npp-viirs
 
-- ### Required Installations:
+### Required Installations:
 - openpyxl
 - seaborn
 - matplotlib
