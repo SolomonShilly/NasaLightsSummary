@@ -1,4 +1,4 @@
-## NasaLightsSummary
+## Nasa VIIRS Nighttime Lights Analysis (2012 - 2020)
 
 ### Required Installations:
 - openpyxl
