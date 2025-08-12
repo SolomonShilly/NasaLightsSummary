@@ -1,7 +1,7 @@
 ## Nasa VIIRS Nighttime Lights Analysis (2012 - 2020)
 
 ### Goal:
-- Using IPUMS data from 2019 -2023, I was able to create a Tableau map of states based on avaerage household incomes (Available at https://github.com/SolomonShilly/Tableau-Visualizations/blob/main/States_HHINCOME.twb)
+- Using IPUMS data from 2019 -2023, I was able to create a Tableau map of states based on avaerage household incomes (Available at https://github.com/SolomonShilly/Tableau-Visualizations/blob/main/States_HHINCOME.twb and https://github.com/SolomonShilly/Tableau-Visualizations/blob/main/README.md)
 - This led me to question if **coastal cities in the US had more activity than midwestern states** due to a large majority of **coastal states having higher median incomes than Midwestern states**
 
 ### Results:
