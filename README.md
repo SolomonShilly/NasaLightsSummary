@@ -1,8 +1,5 @@
 ## NasaLightsSummary
 
-## Takeaways
-- 
-
 ### Required Installations:
 - openpyxl
 - seaborn
